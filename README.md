@@ -1,2 +1,2 @@
 # rust_book_exercise
-done: ch8
+done: ch8.
